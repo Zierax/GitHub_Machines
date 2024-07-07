@@ -159,9 +159,3 @@ export OPENAI_API_KEY=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
 export ANDROID_HOME=/home/ammar/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator
 export PATH=$PATH:/opt/ovftool
-sudo apt install slim
-sudo apt install lightdm
-sudo apt install ubuntu-desktop
-sudo reboot
-sudo service slim start
-sudo apt install vanilla-gnome-desktop vanilla-gnome-default-settingsCopied!
